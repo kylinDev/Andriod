@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlidingPage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="wei_bo">Wei bo</string>
+    <string name="action_feed_back">反馈</string>
+    <string name="action_contact_us">联系我们</string>
+    <string name="action_add_friends">查找好友</string>
+</resources>
